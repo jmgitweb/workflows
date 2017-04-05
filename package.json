@@ -4,7 +4,11 @@
   "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/jmgitweb/workflows.git"
   },
-  "author": "Johann Montet"
+  "author": "Johann Montet",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
