@@ -1,0 +1,567 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fluid-",
+				"fluid-large\t(_variables.scss)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"nth",
+				"nth-child"
+			],
+			[
+				"susy",
+				"susy-breakpoint"
+			],
+			[
+				"roomDes",
+				"roomDestination"
+			],
+			[
+				"scro",
+				"scrollTop〔function〕"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"linear",
+				"linear-gradient\t(_welcome.scss)"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"dar",
+				"darkerblue"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"Art",
+				"Artist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "builds/development/index.html",
+			"settings":
+			{
+				"buffer_size": 6787,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 535.0,
+		"last_filter": "readme",
+		"selected_items":
+		[
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"readmePlea",
+				"ReadmePlease"
+			],
+			[
+				"reame",
+				"ReadmePlease"
+			],
+			[
+				"hyper",
+				"Hyperlink Helper: Lookup with Google & Link"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snipp",
+				"Snippet: Function"
+			]
+		],
+		"width": 764.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Johann/Desktop/Workflows",
+		"/C/Users/Johann/Desktop/Workflows/builds",
+		"/C/Users/Johann/Desktop/Workflows/builds/development",
+		"/C/Users/Johann/Desktop/Workflows/builds/development/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Johann/Desktop/Workflows/package.json",
+		"/C/Users/Johann/Desktop/susydifficultcontext/builds/development/index.html",
+		"/C/Users/Johann/Desktop/susydifficultcontext/components/sass/_base.scss",
+		"/C/Users/Johann/Desktop/susydifficultcontext/components/sass/_layout.scss",
+		"/C/Users/Johann/Desktop/susydifficultcontext/components/sass/_mixins.scss",
+		"/C/Users/Johann/Desktop/susydifficultcontext/components/sass/_variables.scss",
+		"/C/Users/Johann/Desktop/susydifficultcontext/susyshorthand.sublime-project",
+		"/C/Users/Johann/Downloads/Learning-Susy-chapter7-2(2)/Learning-Susy-chapter7-2/walkthrough/index.html",
+		"/C/Users/Johann/Desktop/responsivesusy/components/sass/style.scss",
+		"/C/Users/Johann/Desktop/responsivesusy/components/sass/_mixins.scss",
+		"/C/Users/Johann/Desktop/responsivesusy/components/sass/_variables.scss",
+		"/C/Users/Johann/Desktop/responsivesusy/builds/development/index.html",
+		"/C/Users/Johann/Desktop/responsivesusy/components/sass/_layout.scss",
+		"/C/Users/Johann/Desktop/responsivesusy/builds/development/css/style.css",
+		"/C/Users/Johann/Desktop/responsivesusy/components/sass/_base.scss",
+		"/C/Users/Johann/Desktop/responsivesusy/gulpfile.js",
+		"/C/Users/Johann/Desktop/responsivesusy/components/scripts/script.js",
+		"/C/Users/Johann/Desktop/responsivesusy/builds/development/js/script.js",
+		"/C/Users/Johann/Desktop/responsivesusy/builds/development/morecomplex.html",
+		"/C/Users/Johann/Downloads/Learning-Susy-chapter8-2/Learning-Susy-chapter8-2/walkthrough/css/styles.css",
+		"/C/Users/Johann/Desktop/responsivesusy/components/sass/_normalize.scss",
+		"/C/Users/Johann/Desktop/responsivesusy/components/scripts/TweenMax.min.js",
+		"/C/Users/Johann/Desktop/responsivesusy/components/scripts/jquery.scrollmagic.min.js",
+		"/C/Users/Johann/Desktop/responsivesusy/package.json",
+		"/C/Users/Johann/Desktop/responsivesusy/components/sass/modules/_dining.scss",
+		"/C/Users/Johann/Desktop/Learning-Susy-chapter4-1/Learning-Susy-chapter4-1/susy-starters/with Grunt/Gruntfile.js",
+		"/C/Users/Johann/Desktop/susygulp/node_modules/node-sass/lib/index.js",
+		"/C/Users/Johann/Desktop/susygulp/scss/styles.scss",
+		"/C/Users/Johann/Desktop/susygulp/css/styles.css",
+		"/C/Users/Johann/Desktop/susygulp/index.html",
+		"/C/Users/Johann/Desktop/Susysetups/susygrunt/package.json",
+		"/C/Users/Johann/Desktop/Susy setups/susygrunt/package.json",
+		"/C/Users/Johann/Desktop/Learning-Susy-chapter4-1/Learning-Susy-chapter4-1/walkthrough/css/styles.css",
+		"/C/Users/Johann/Desktop/susyprojectcompass/sass/screen.scss",
+		"/C/Users/Johann/Desktop/susyprojectcompass/css/screen.css",
+		"/C/Users/Johann/Desktop/susyprojectcompass/..gitignore",
+		"/C/Users/Johann/Desktop/susygulp/gulpfile.js",
+		"/C/Users/Johann/Desktop/susygrunt/node_modules/grunt-sass/tasks/sass.js",
+		"/C/Users/Johann/Desktop/susygrunt/index.html",
+		"/C/Users/Johann/Desktop/susyprojectcompass/config.rb",
+		"/C/Users/Johann/Desktop/susyprojectcompass/index.html",
+		"/C/Users/Johann/Desktop/susyprojectcompass/.gitignore",
+		"/C/Users/Johann/Desktop/susyprojectcompass/css/ie.css",
+		"/C/Users/Johann/Desktop/susyprojectcompass/css/print.css",
+		"/C/Users/Johann/Desktop/responsive/gulpfile.js",
+		"/C/Users/Johann/Desktop/responsive/builds/development/js/script.js",
+		"/C/Users/Johann/Desktop/responsive/builds/development/index.html",
+		"/C/Users/Johann/Desktop/responsive/components/sass/_variables.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/modules/_nav.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/modules/_footer.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/modules/attractions.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/modules/_events.scss",
+		"/C/Users/Johann/Desktop/responsive/components/scripts/script.js",
+		"/C/Users/Johann/Desktop/roux_website/_css/main.css",
+		"/C/Users/Johann/Desktop/animated photos gallery/index.html",
+		"/C/Users/Johann/Desktop/roux_website - Copy/_css/main.css",
+		"/C/Users/Johann/Desktop/responsive/components/sass/_mixins.scss",
+		"/C/Users/Johann/Desktop/responsive/builds/development/css/style.css.map",
+		"/C/Users/Johann/Desktop/responsive/components/sass/style.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/modules/_intro.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/_layout.scss",
+		"/C/Users/Johann/Desktop/responsive/builds/development/css/style.css",
+		"/C/Users/Johann/Desktop/responsive/components/sass/modules/_welcome.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/modules/_hotelinfo.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/modules/_dining.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/_base.scss",
+		"/C/Users/Johann/Desktop/responsive/components/sass/modules/_rooms.scss",
+		"/C/Users/Johann/Desktop/website/responsive/builds/development/index.html",
+		"/C/Users/Johann/Desktop/website/responsive/package.json",
+		"/C/Users/Johann/Desktop/website/responsive/builds/development/css/style.css",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/css/app.css",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/carousel.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/equalizer.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/lightbox.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/chap-4-solution.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/interchange.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/chap-5-challenge.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/modal.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/offcanvas.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/nav.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/visibility.html",
+		"/C/Users/Johann/Desktop/foundat5exercisefiles/Chapter 3/03_09/final/css/app.css",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/chap-3-challenge.html",
+		"/C/Users/Johann/Desktop/foundat5exercisefiles/Chapter 4/04_01/final/nav.html",
+		"/C/Users/Johann/Desktop/foundat5exercisefiles/Chapter 3/03_09/final/chap-3-solution.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/chap-2-challenge.html",
+		"/C/Users/Johann/Desktop/foundat5exercisefiles/Chapter 2/02_10/final/chap-2-solution.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/typography.html",
+		"/C/Users/Johann/Desktop/FOUNDATIONWEBSITE/block-grid.html",
+		"/C/Users/Johann/Desktop/Ex_Files_CSS_N_Sass/exercise files/06_06/working folder/sassycompass/_/components/sass/styles.scss",
+		"/C/Users/Johann/Desktop/Ex_Files_CSS_N_Sass/exercise files/06_06/working folder/sassycompass/config.rb",
+		"/C/Users/Johann/Desktop/Ex_Files_CSS_N_Sass/exercise files/06_06/working folder/sassycompass/_/components/sass/_layout.scss",
+		"/C/Users/Johann/Desktop/Ex_Files_CSS_N_Sass/exercise files/06_06/working folder/sassycompass/index.html",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_tag.sublime-settings",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/readme.md",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/README.md",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/Emmet Css Snippets/README.md",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/ReadmePlease/README.md",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/GitSavvy/README.md",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/Gutter Color/README.md",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Johann/Desktop/TopFolder/index.html",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/GitGutter/README.md",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/User/GitSavvy.sublime-settings",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/C/Users/Johann/Desktop/roux_website/index.htm",
+		"/C/Users/Johann/Desktop/roux_website/_scripts/respond.min.js",
+		"/C/Users/Johann/Desktop/roux_website/_scripts/SpryTabbedPanels.js",
+		"/C/Users/Johann/Desktop/roux_website/500.shtml",
+		"/C/Users/Johann/Desktop/roux_website/401.shtml",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/C/Users/Johann/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Johann/Desktop/roux_website/spotlight.htm",
+		"/C/Users/Johann/Downloads/Ex_Files_SublimeText3_Basics/Ex_Files_SublimeText3_Basics/roux_website/_scripts/SpryTabbedPanels.js",
+		"/C/Users/Johann/Downloads/Ex_Files_SublimeText3_Basics/Ex_Files_SublimeText3_Basics/roux_website/index.htm",
+		"/C/Users/Johann/Downloads/Ex_Files_SublimeText3_Basics/Ex_Files_SublimeText3_Basics/roux_website/spotlight.htm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".last",
+			"room",
+			"topspace",
+			".branding",
+			"\n//",
+			"<p>",
+			"<p>Here at Roux, we&rsquo;re as excited for the upcoming school year as we are this one. Visiting professors Barry Mandow (renowned photojournalist) and Rebecca Short (textile designer) will be joining us in the fall and construction on the Roux North remodel will be completed by October 2012.</p>",
+			"class=",
+			"id="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "builds/development/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										843,
+										846
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										362,
+										365
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/glacier.tmTheme",
+							"git_gutter_enabled": true,
+							"git_savvy.file_path": "C:\\Users\\Johann\\Desktop\\Workflows\\builds\\development\\index.html",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1491297688.53,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "workflows.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"_css\\main.css"
+			],
+			[
+				"spo",
+				"spotlight.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 213.0,
+		"last_filter": "hh",
+		"selected_items":
+		[
+			[
+				"hh",
+				"homeHeader"
+			]
+		],
+		"width": 560.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
