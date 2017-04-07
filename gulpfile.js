@@ -2,8 +2,8 @@ var gulp = require('gulp'),
     gutil = require('gulp-util'),
     coffee = require('gulp-coffee'),
     browserify = require('gulp-browserify'),
+    compass = require('gulp-compass'),
     concat = require('gulp-concat');
-
 
 var coffeeSources = ['components/coffee/tagline.coffee'];
 var jsSources = [
@@ -12,20 +12,41 @@ var jsSources = [
   'components/scripts/tagline.js',
   'components/scripts/template.js'
 ];
+var sassSources = ['components/sass/style.scss'];
 
-
-gulp.task('coffee', function(){
-  // specifiy which file to process
+gulp.task('coffee', function() {
   gulp.src(coffeeSources)
-    .pipe(coffee({bare: true}) //bare : true is a coffee-script language stuff
+    .pipe(coffee({ bare: true })
       .on('error', gutil.log))
-    .pipe(gulp.dest('components/scripts')) //defines where to put file when done
+    .pipe(gulp.dest('components/scripts'))
 });
 
-//Put all js files into one
-gulp.task('js', function(){
+gulp.task('js', function() {
   gulp.src(jsSources)
-    .pipe(concat('script.js')) //script.js is the name we want to give to final file
+    .pipe(concat('script.js'))
     .pipe(browserify())
     .pipe(gulp.dest('builds/development/js'))
 });
+
+gulp.task('compass', function() {
+  gulp.src(sassSources)
+    .pipe(compass({
+      sass: 'components/sass',
+      image: 'builds/development/images',
+      style: 'expanded'
+    })
+    .on('error', gutil.log))
+    .pipe(gulp.dest('builds/development/css'))
+});
+
+
+
+//ERROR FROM RUNNING GULP COMPASS IN GITBASH?????
+// [07:12:06] { [Error: Compass failed]
+//   message: 'Compass failed',
+//   showStack: false,
+//   showProperties: true,
+//   plugin: 'gulp-compass',
+//   __safety: { toString: [Function: bound ] } }
+// workflows(master) >
+
